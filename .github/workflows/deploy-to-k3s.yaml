@@ -32,6 +32,3 @@ jobs:
           helm upgrade --install my-nginx ./nginx \
             --namespace default \
             --wait
-
-
-	  
